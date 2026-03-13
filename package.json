@@ -1,0 +1,21 @@
+{
+  "name": "basic-conversation-file-helper",
+  "version": "1.0.0",
+  "description": "Basic conversation, image, and file handling utilities.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChiHo120/-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ChiHo120/-/issues"
+  },
+  "homepage": "https://github.com/ChiHo120/-#readme"
+}
