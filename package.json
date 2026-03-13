@@ -1,5 +1,5 @@
 {
-  "name": "-",
+  "name": "basic-conversation-file-helper",
   "version": "1.0.0",
   "description": "Basic conversation, image, and file handling utilities.",
   "main": "src/index.js",
